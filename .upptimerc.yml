@@ -9,8 +9,6 @@ sites:
   - name: API
     url: https://api-utopia-app.com/api/
     expectedStatusCodes:
-      - 200
-      - 201
       - 404
   - name: Website
     url: https://utopia-app.com
