@@ -1,22 +1,22 @@
 [
   {
     "name": "API",
-    "url": "https://api-utopia-app.com/api/",
-    "icon": "https://icons.duckduckgo.com/ip3/api-utopia-app.com.ico",
+    "url": "https://api.utopia-app.com/api/",
+    "icon": "https://icons.duckduckgo.com/ip3/api.utopia-app.com.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "0.10%",
-    "uptimeDay": "0.10%",
-    "uptimeWeek": "0.10%",
-    "uptimeMonth": "0.10%",
-    "uptimeYear": "0.10%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.44%",
+    "uptimeDay": "0.44%",
+    "uptimeWeek": "0.44%",
+    "uptimeMonth": "0.44%",
+    "uptimeYear": "0.44%",
+    "time": 159,
+    "timeDay": 159,
+    "timeWeek": 159,
+    "timeMonth": 159,
+    "timeYear": 159,
     "dailyMinutesDown": {
-      "2025-12-31": 10
+      "2025-12-31": 11
     }
   },
   {
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/utopia-app.com.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "1.90%",
-    "uptimeDay": "1.90%",
-    "uptimeWeek": "1.90%",
-    "uptimeMonth": "1.90%",
-    "uptimeYear": "1.90%",
-    "time": 149,
-    "timeDay": 149,
-    "timeWeek": 149,
-    "timeMonth": 149,
-    "timeYear": 149,
+    "uptime": "13.30%",
+    "uptimeDay": "13.30%",
+    "uptimeWeek": "13.30%",
+    "uptimeMonth": "13.30%",
+    "uptimeYear": "13.30%",
+    "time": 219,
+    "timeDay": 219,
+    "timeWeek": 219,
+    "timeMonth": 219,
+    "timeYear": 219,
     "dailyMinutesDown": {
       "2025-12-31": 9
     }
