@@ -7,9 +7,9 @@ assignees:
 
 sites:
   - name: API
-    url: https://api.utopia-app.com/api/
+    url: $API
     expectedStatusCodes:
-      - 404
+      - 200
   - name: Website
     url: https://utopia-app.com
 
