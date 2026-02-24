@@ -17,7 +17,7 @@ sites:
 
 status-website:
   name: Utopia Status # Status website title
-  theme: dark
+  theme: utopia
   logoUrl: https://utopia-app.com/images/utopia-logo.png
   favicon: https://utopia-app.com/images/utopia-logo.png
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
