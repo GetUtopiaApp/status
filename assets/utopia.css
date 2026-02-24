@@ -1,36 +1,44 @@
 :root {
-  --body-background-color: #041c1b;
-  --body-text-color: #dff5f3;
+  /* Core background (deep blue-black like Utopia) */
+  --body-background-color: #020617;
+  --body-text-color: #e6edf6;
 
-  --card-background-color: #072a28;
-  --nav-background-color: #072a28;
-  --nav-border-bottom-color: #0e4a46;
-  --nav-current-border-bottom-color: #2dd4bf;
+  /* Surfaces (dark slate-blue panels) */
+  --card-background-color: #0b1220;
+  --nav-background-color: #0b1220;
 
-  --card-border-color: #0e4a46;
+  /* Borders (subtle cool blue dividers) */
+  --nav-border-bottom-color: #1b2a41;
+  --nav-current-border-bottom-color: #3b82f6;
+  --card-border-color: #1b2a41;
 
-  --down-border-left-color: #ef4444;
-  --down-background-color: #2a0f14;
-
-  --degraded-border-left-color: #f59e0b;
-
+  /* Status indicators (cool-toned, not neon) */
   --up-border-left-color: #22c55e;
+  --degraded-border-left-color: #f59e0b;
+  --down-border-left-color: #ef4444;
 
-  --tag-color: #072a28;
-  --tag-up-background-color: #14532d;
-  --tag-down-background-color: #3b0d12;
-  --tag-degraded-background-color: #3a2a0a;
+  /* Status background tints */
+  --down-background-color: #1a0d12;
 
-  --change-background-color: #3a2a0a;
+  /* Tags */
+  --tag-color: #0b1220;
+  --tag-up-background-color: #0f2a1f;
+  --tag-down-background-color: #2a1013;
+  --tag-degraded-background-color: #2a210f;
 
-  --error-button-border-color: #134e4a;
-  --error-button-background-color: #0f766e;
-  --error-button-color: #ecfeff;
+  /* Change highlight */
+  --change-background-color: #2a210f;
 
-  --submit-button-border-color: #134e4a;
-  --submit-button-background-color: #0f766e;
-  --submit-button-color: #ecfeff;
+  /* Buttons (Utopia-style blue CTAs) */
+  --error-button-border-color: #1d4ed8;
+  --error-button-background-color: #2563eb;
+  --error-button-color: #ffffff;
 
+  --submit-button-border-color: #1d4ed8;
+  --submit-button-background-color: #2563eb;
+  --submit-button-color: #ffffff;
+
+  /* Graph styling */
   --graph-opacity: 1;
   --graph-filter: none;
 }
