@@ -1,31 +1,28 @@
 :root {
-  /* Core surfaces (deep teal, not blue-black) */
   --body-background-color: #041c1b;
   --body-text-color: #dff5f3;
 
-  /* Cards & nav (muted teal panels) */
   --card-background-color: #072a28;
   --nav-background-color: #072a28;
-  --card-border-color: #0e4a46;
   --nav-border-bottom-color: #0e4a46;
-
-  /* Accent (soft emerald like the site buttons/accents) */
   --nav-current-border-bottom-color: #2dd4bf;
 
-  /* Status colors (less neon, more refined) */
-  --up-border-left-color: #22c55e;
-  --degraded-border-left-color: #f59e0b;
-  --down-border-left-color: #ef4444;
+  --card-border-color: #0e4a46;
 
-  /* Background tints for states */
+  --down-border-left-color: #ef4444;
   --down-background-color: #2a0f14;
+
+  --degraded-border-left-color: #f59e0b;
+
+  --up-border-left-color: #22c55e;
+
   --tag-color: #072a28;
   --tag-up-background-color: #14532d;
   --tag-down-background-color: #3b0d12;
   --tag-degraded-background-color: #3a2a0a;
+
   --change-background-color: #3a2a0a;
 
-  /* Buttons (matches the softer teal/green CTA style) */
   --error-button-border-color: #134e4a;
   --error-button-background-color: #0f766e;
   --error-button-color: #ecfeff;
@@ -34,7 +31,6 @@
   --submit-button-background-color: #0f766e;
   --submit-button-color: #ecfeff;
 
-  /* Graph styling (site uses clean, non-muted visuals) */
   --graph-opacity: 1;
   --graph-filter: none;
 }
