@@ -12,9 +12,14 @@ sites:
       - 200
   - name: Website
     url: https://utopia-app.com
+  - name: Web App
+    url: https://app.utopia-app.com
 
 status-website:
+  name: Utopia Status # Status website title
   theme: dark
+  logoUrl: https://utopia-app.com/images/utopia-logo.png
+  favicon: https://utopia-app.com/images/utopia-logo.png
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.utopia-app.com
@@ -27,6 +32,8 @@ status-website:
       href: /
     - title: Website
       href: https://utopia-app.com
+    - title: Manage Account
+      href: https://app.utopia-app.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
