@@ -24,7 +24,6 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.utopia-app.com
   # baseUrl: /your-repo-name
-  logoUrl: https://utopia-app.com/images/utopia-logo_hu_8380a076a28d9f97.webp
   name: Utopia Status
   introTitle: "**Utopia** status page powered by upptime.js monitor and status page, powered entirely by GitHub."
   navbar:
