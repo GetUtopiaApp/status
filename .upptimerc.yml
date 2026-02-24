@@ -12,22 +12,21 @@ sites:
       - 200
   - name: Website
     url: https://utopia-app.com
-  - name: Web App
+  - name: "Web App"
     url: https://app.utopia-app.com
 
 status-website:
-  name: Utopia Status # Status website title
+  name: "Utopia Status" # Status website title
   theme: utopia
   logoUrl: https://utopia-app.com/images/utopia-logo.png
   cname: status.utopia-app.com
-  name: Utopia Status
-  introTitle: "**Utopia** status page powered by upptime.js monitor and status page, powered entirely by GitHub."
+  name: "Utopia Status"
   navbar:
     - title: Status
       href: /
     - title: Website
       href: https://utopia-app.com
-    - title: Manage Account
+    - title: "Manage Account"
       href: https://app.utopia-app.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
