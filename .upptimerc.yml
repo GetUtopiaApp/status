@@ -17,7 +17,7 @@ sites:
 
 status-website:
   name: "Utopia Status" # Status website title
-  theme: utopia
+  themeUrl: https://status.utopia-app.com/utopia.css
   logoUrl: https://utopia-app.com/images/utopia-logo.png
   cname: status.utopia-app.com
   navbar:
