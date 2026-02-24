@@ -20,7 +20,6 @@ status-website:
   theme: utopia
   logoUrl: https://utopia-app.com/images/utopia-logo.png
   cname: status.utopia-app.com
-  name: "Utopia Status"
   navbar:
     - title: Status
       href: /
