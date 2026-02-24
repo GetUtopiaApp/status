@@ -26,8 +26,6 @@ status-website:
       href: https://utopia-app.com
     - title: "Manage Account"
       href: https://app.utopia-app.com
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
