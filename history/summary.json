@@ -6,7 +6,7 @@
     "slug": "api",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "8.18%",
     "uptimeWeek": "82.92%",
     "uptimeMonth": "96.07%",
     "uptimeYear": "99.25%",
@@ -27,7 +27,7 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "8.18%",
     "uptimeWeek": "82.92%",
     "uptimeMonth": "96.07%",
     "uptimeYear": "99.25%",
@@ -48,7 +48,7 @@
     "slug": "web-app",
     "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "8.17%",
     "uptimeWeek": "82.92%",
     "uptimeMonth": "96.07%",
     "uptimeYear": "98.85%",
@@ -60,6 +60,26 @@
     "dailyMinutesDown": {
       "2026-06-08": 1184,
       "2026-06-07": 538
+    }
+  },
+  {
+    "name": "Transactional Email Health",
+    "url": "$EmailCheck",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "transactional-email-health",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-06-08": 3
     }
   }
 ]
