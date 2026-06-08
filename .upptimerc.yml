@@ -14,8 +14,8 @@ sites:
   - name: "Web App"
     url: https://app.utopia-app.com
   - name: "Transactional Email Health"
-    url: $EmailCheck
-
+    url: $EMAILCHECK
+ 
 status-website:
   name: "Utopia Status" # Status website title
   themeUrl: https://status.utopia-app.com/utopia.css
