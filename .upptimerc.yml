@@ -15,6 +15,15 @@ sites:
     url: https://app.utopia-app.com
   - name: "Transactional Email Health"
     url: $EMAILCHECK
+    expectedStatusCodes:
+      - 200
+  - name: Authentication
+    url: $AUTHCHECK
+    method: GET
+    headers:
+      - "apikey: $AUTHKEY"
+    expectedStatusCodes:
+      - 200
  
 status-website:
   name: "Utopia Status" # Status website title
