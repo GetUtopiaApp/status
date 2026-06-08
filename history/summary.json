@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 92,
-    "timeWeek": 197,
-    "timeMonth": 186,
-    "timeYear": 205,
+    "uptime": "99.66%",
+    "uptimeDay": "46.11%",
+    "uptimeWeek": "92.30%",
+    "uptimeMonth": "98.23%",
+    "uptimeYear": "99.66%",
+    "time": 204,
+    "timeDay": 108,
+    "timeWeek": 204,
+    "timeMonth": 180,
+    "timeYear": 204,
     "dailyMinutesDown": {
-      "2026-06-07": 0
+      "2026-06-08": 237,
+      "2026-06-07": 538
     }
   },
   {
@@ -25,17 +26,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/utopia-app.com.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.66%",
+    "uptimeDay": "46.12%",
+    "uptimeWeek": "92.30%",
+    "uptimeMonth": "98.23%",
+    "uptimeYear": "99.66%",
     "time": 192,
-    "timeDay": 132,
-    "timeWeek": 164,
+    "timeDay": 137,
+    "timeWeek": 169,
     "timeMonth": 178,
     "timeYear": 192,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-08": 237,
+      "2026-06-07": 538
+    }
   },
   {
     "name": "Web App",
@@ -43,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.utopia-app.com.ico",
     "slug": "web-app",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 93,
+    "uptime": "99.48%",
+    "uptimeDay": "46.12%",
+    "uptimeWeek": "92.30%",
+    "uptimeMonth": "98.23%",
+    "uptimeYear": "99.48%",
+    "time": 233,
+    "timeDay": 89,
     "timeWeek": 145,
-    "timeMonth": 146,
-    "timeYear": 235,
+    "timeMonth": 145,
+    "timeYear": 233,
     "dailyMinutesDown": {
-      "2026-06-07": 0
+      "2026-06-08": 238,
+      "2026-06-07": 538
     }
   }
 ]
